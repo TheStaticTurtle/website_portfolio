@@ -1,10 +1,10 @@
 #########################  Website  ###########################
-baseURL: 'https://blog.thestaticturtle.fr/'
+baseURL: 'https://thestaticturtle.fr/'
 refLinksNotFoundURL: "/404.html"
 
 log: true
 verbose: true
-timeout: 300000 # Large timeout for the SSR of embeds
+timeout: "300s"
 
 enableGitInfo: true
 
@@ -104,32 +104,17 @@ imaging:
 
 #########################  Content  ###########################
 
-taxonomies:
-  author: authors
-  tag: tags
-
-permalinks:
-  posts: '/:slug/'
-
-section:
-  - "RSS"
-  - "SITEMAP"
+section: []
 
 outputs:
   home:
     - "HTML"
-    - "RSS"
-    - "SITEMAP"
   page:
     - "HTML"
   section:
     - "HTML"
-    - "SITEMAP"
-  taxonomy:
-    - "HTML"
-    - "SITEMAP"
-  term:
-    - "HTML"
+  taxonomy: []
+  term: []
 
 rssLimit: -1 
 

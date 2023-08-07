@@ -1,6 +1,4 @@
-#########################  Website  ###########################
-baseURL: 'https://blog.staging.thestaticturtle.fr/'
-refLinksNotFoundURL: "/404.html"
+baseURL: 'https://website.staging.thestaticturtle.fr/'
 
 title: TheStaticTurtle (Staging)
 copyright: Copyright 2023 - TheStaticTurtle (Currently in staging mode)
