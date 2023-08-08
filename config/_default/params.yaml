@@ -23,3 +23,7 @@ rss:
 
 pagination:
   articleCount: 9
+
+umami:
+  url: https://analytics.thestaticturtle.fr/umami.js
+  id: dff824d3-af6c-4335-a006-d4525d247dc4
