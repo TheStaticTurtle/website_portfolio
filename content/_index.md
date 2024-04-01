@@ -1,5 +1,5 @@
 ---
-title: "TheStaticTurtle - Samuel TUGLER"
+title: "TheStaticTurtle - Samuel"
 layout: portfolio
 language: en
 translationKey: "portfolio"
