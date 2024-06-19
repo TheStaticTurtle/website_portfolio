@@ -36,7 +36,7 @@ Clé GPG: [0xc97f759321c4c29c](https://keyserver.ubuntu.com/pks/lookup?search=0x
 
 ### {{< mdi "mdi-account-supervisor" >}} Générales
 - Membre de l'équipe technique de l'[AFSR](https://www.fete-sorciere.com/association.html)
-- Aide technique à la [chorale d'oberhergheim](https://choraleoberhergheim.wixsite.com/choraleoberhergheim)
+- Aide technique + production video à la [chorale d'oberhergheim](https://choraleoberhergheim.wixsite.com/choraleoberhergheim)
 
 ### {{< mdi "mdi-wrench" >}} Technologies
 
@@ -65,6 +65,6 @@ L'une des choses que je fais le plus est de gérer et d'expérimenter avec ma pr
 Je gère des services comme HomeAssistant, Node-Red, Paperless qui m'aident à organiser et à automatiser ma vie quotidienne.
 
 ### {{< mdi "mdi-cast-audio" >}} Audio / Video
-J'aime aussi participer à l'équipe audio et lumière dans les coulisses des concerts / événements. J'ai des notions fondamentales de mixage audio et de jeux de lumières simples. De plus, je commence aussi à apprendre le grand monde de la production vidéo.
+J'aime aussi participer à l'équipe audio et lumière dans les coulisses des concerts / événements. J'ai des notions fondamentales de mixage audio et de jeux de lumières simples. Je travaille aussi avec divers systèmes de production vidéo.
 
 Chaque année, j'assiste à la [Fête de la sorcière](https://www.fete-sorciere.com/) à Rouffach en France, et quand c'est programmé, j'aide dans les coulisses de la [chorale de mon village](https://choraleoberhergheim.wixsite.com/choraleoberhergheim).

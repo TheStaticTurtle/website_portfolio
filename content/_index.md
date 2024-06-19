@@ -35,7 +35,7 @@ GPG key: [0xc97f759321c4c29c](https://keyserver.ubuntu.com/pks/lookup?search=0xc
 
 ### {{< mdi "mdi-account-supervisor" >}} General
 - Part of the stage sound and lighting crew at [AFSR](https://www.fete-sorciere.com/association.html)
-- Technical aid at my local [choir](https://choraleoberhergheim.wixsite.com/choraleoberhergheim)
+- Technical aid + video production at my local [choir](https://choraleoberhergheim.wixsite.com/choraleoberhergheim)
 
 ### {{< mdi "mdi-wrench" >}} Technologies
 
@@ -64,7 +64,7 @@ One of the things I do the most is managing and experimenting on my own network 
 I run services like HomeAssistant, Node-Red, Paperless which help me to organize and automate my daily life
 
 ### {{< mdi "mdi-cast-audio" >}} Audio / Video
-I also like participating in the audio, and lighting crew  at the backstage of concerts / events. I have basic notions of audio mixing and simple light shows. Furthermore, I'm also starting to learn the big world of video production.
+I also like participating in the audio, and lighting crew  at the backstage of concerts / events. I have basic notions of audio mixing and simple light shows. I'm also working with various video production systems.
 
 I annually attend the ["Fête de la Sorcière" (Witch's Day)](https://www.fete-sorciere.com/) at Rouffach in France, and when it's scheduled, I help in the backstage at a [choir](https://choraleoberhergheim.wixsite.com/choraleoberhergheim).
 
