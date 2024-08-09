@@ -10,7 +10,7 @@ This page is about the various technologies & hardware I used at some point.
 
 The main thing you **NEED** to remember about this list is that it is **not exhaustive**. It's there as an indication of **some of the tools** and solutions I worked with in my personal, professional or associative projects and activities. **It's certainly not all of them**, check the build date in the footer to get an idea.
 
-That being said, if you need clarification or the context in which I used a specific software/hardware, shoot me an email at samuel@tugler.fr I'll make sure to respond and update the page.
+That being said, if you need clarification or the context in which I used a specific software/hardware, shoot me an email at samuel@thestaticturtle.fr I'll make sure to respond and update the page.
 
 ### Software development
 #### {{< mdi "mdi-database" >}}  Technologies

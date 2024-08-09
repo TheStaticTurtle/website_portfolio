@@ -10,7 +10,7 @@ Cette page présente les différentes technologies et le matériel que j'ai util
 
 La principale chose à retenir de cette liste est qu'elle **n'est pas exhaustive**. Elle sert à indiquer **une partie des outils et des solutions** que j'ai utilisées dans le cadre de mes projets et activités personnels, professionnels ou associatifs. **Elle n'est pas complète**, vous pouvez voir la date de build dans le footer pour vous faire une idée.
 
-Ceci étant dit, si vous avez besoin d'éclaircissements, ou du contexte dans lequel j'ai utilisé un logiciel/matériel spécifique, envoyez-moi un mail à samuel@tugler.fr. Je m'assurerai de vous répondre et d'actualiser la page.
+Ceci étant dit, si vous avez besoin d'éclaircissements, ou du contexte dans lequel j'ai utilisé un logiciel/matériel spécifique, envoyez-moi un mail à samuel@thestaticturtle.fr. Je m'assurerai de vous répondre et d'actualiser la page.
 
 ### Développement logiciel
 #### {{< mdi "mdi-database" >}}  Technologies

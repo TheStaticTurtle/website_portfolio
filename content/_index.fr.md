@@ -16,7 +16,7 @@ Clé GPG: [0xc97f759321c4c29c](https://keyserver.ubuntu.com/pks/lookup?search=0x
     {{< social-icon link="https://github.com/TheStaticTurtle" icon="mdi-github" >}} Github {{< /social-icon >}}
     {{< social-icon link="https://www.linkedin.com/in/samuel-tugler-62a9911b4/" icon="mdi-linkedin" >}} LinkedIn {{< /social-icon >}}
     {{< social-icon link="https://twitter.com/TheStaticTurtle" icon="mdi-twitter" >}} Twitter {{< /social-icon >}}
-    {{< social-icon link="mailto:tuglersamuel@gmail.com" icon="mdi-at" >}} EMail {{< /social-icon >}}
+    {{< social-icon link="mailto:samuel@thestaticturtle.fr" icon="mdi-at" >}} EMail {{< /social-icon >}}
 </div>
 
 <br>
